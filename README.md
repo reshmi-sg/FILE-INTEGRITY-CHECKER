@@ -21,7 +21,11 @@
 # This project highlights the importance of file integrity monitoring (FIM) in the field of cybersecurity. Attackers often modify system files, scripts, or configurations to install malware or maintain persistence. A file integrity checker is a key component in intrusion detection systems (IDS) and helps organizations stay compliant with security standards such as PCI-DSS, HIPAA, and ISO 27001.
 # I successfully implemented the tool using Python and tested it across multiple scenarios. It deepened my understanding of hashing, file handling, and real-world security practices. This internship task helped me bridge the gap between theoretical knowledge and practical cybersecurity implementation.
 
-# OUTPUT
+# 1.OUTPUT of Monitor file
   ![image](https://github.com/user-attachments/assets/a2f18f9a-c49d-4f21-8575-7eda5863f74d)
+ # 2.
+     ![image](https://github.com/user-attachments/assets/b8f105ac-8571-4b97-9a75-5f80cdf70245)
+
+      
 
 
