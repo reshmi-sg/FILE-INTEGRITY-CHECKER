@@ -66,8 +66,7 @@ def main():
     compare_hashes(previous_hashes, current_hashes)
     save_hashes(current_hashes, HASH_RECORD_FILE)
 
-    print("\n Integrity check complete.")
+    print("\n✅ Integrity check complete.")
 
 if __name__ == "__main__":
     main()
-
