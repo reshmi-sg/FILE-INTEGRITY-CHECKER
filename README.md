@@ -1,7 +1,7 @@
 # FILE-INTEGRITY-CHECKER
 # Reshmi Ashok sail
 # Cybersecurity
-# Internshp 
+# Internship 
 # 5Jun-5july
 # As part of my internship with CodTech, I was assigned a task in the Cybersecurity domain to build a File Integrity Checker. 
 # This tool helps in ensuring the integrity of important files by detecting any unauthorized modifications, deletions, or corruptions. 
